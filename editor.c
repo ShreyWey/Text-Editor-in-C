@@ -1,4 +1,4 @@
-#define EDITOR_VERSION "0.0.1"
+#define EDITOR_VERSION "0.2.1"
 
 #ifdef __linux__
 #define _POSIX_C_SOURCE 200809L
